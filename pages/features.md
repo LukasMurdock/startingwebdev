@@ -27,6 +27,13 @@ There is a wide range of features a website can have.
 - CTAs
 - Content
 - Favicon
+- [HTML head](https://htmlhead.dev/)
+    - Title
+    - Description
+    - Favicon
+    - Social images
+    
+
 
 ## Restaurant Website Pages
 - 
